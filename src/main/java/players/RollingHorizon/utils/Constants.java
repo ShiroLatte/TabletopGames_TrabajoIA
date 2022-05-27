@@ -1,4 +1,4 @@
-package players.rhea.utils;
+package players.RollingHorizon.utils;
 
 public class Constants {
     public static final double epsilon = 1e-6;

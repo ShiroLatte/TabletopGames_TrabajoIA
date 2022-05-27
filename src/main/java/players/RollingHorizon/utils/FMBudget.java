@@ -1,4 +1,4 @@
-package players.rhea.utils;
+package players.RollingHorizon.utils;
 
 public class FMBudget {
     private int remainingBudget;

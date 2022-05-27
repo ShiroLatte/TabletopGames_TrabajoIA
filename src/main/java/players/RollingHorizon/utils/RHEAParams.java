@@ -1,11 +1,11 @@
-package players.rhea.utils;
+package players.RollingHorizon.utils;
 
-import players.optimisers.ParameterSet;
-import utils.Pair;
+import players.RollingHorizon.optimisers.ParameterSet;
+import players.RollingHorizon.utils.Pair;
 
 import java.util.*;
 
-import static players.rhea.utils.Constants.*;
+import static players.RollingHorizon.utils.Constants.*;
 
 public class RHEAParams implements ParameterSet {
 

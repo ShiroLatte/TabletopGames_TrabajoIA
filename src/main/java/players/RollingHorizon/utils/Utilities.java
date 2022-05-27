@@ -1,6 +1,6 @@
-package players.rhea.utils;
+package players.RollingHorizon.utils;
 
-import players.rhea.evo.Individual;
+import players.RollingHorizon.evo.Individual;
 
 import java.util.Arrays;
 import java.util.Random;

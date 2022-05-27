@@ -1,4 +1,4 @@
-package utils;
+package players.RollingHorizon.utils;
 
 public class Pair<T, K> {
     public T first;
