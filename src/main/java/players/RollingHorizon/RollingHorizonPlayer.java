@@ -10,12 +10,13 @@ import java.util.Random;
 
 public class RollingHorizonPlayer extends AbstractPlayer {
 
-    private final Random rhea;
-    
+    private Random rhea;
+
+
     //contructor de jugador
     public RollingHorizonPlayer()
     {
-        this(new RollingHorizonPlayer());
+        
     }
 
     //metodo abstracto de conseguir accion, cambiar en un futuro
